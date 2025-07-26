@@ -1,5 +1,5 @@
 # Project-1_Weather_Data_Analysis
-Analyse Big Data with Python
+Big Data Analysis with Python
 
 Project Video available on YouTube - https://youtu.be/4hYOkHijtNw
 
