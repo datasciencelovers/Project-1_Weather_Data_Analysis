@@ -1,7 +1,7 @@
 # Project-1_Weather_Data_Analysis
 Big Data Analysis with Python
 
-_**Project Video available on YouTube - https://youtu.be/4hYOkHijtNw**___
+_**Project Video available on YouTube - https://youtu.be/4hYOkHijtNw**_
 
 Text Version of the project - https://medium.com/@datasciencelovers/python-data-analysis-project-1-50aa259b09de
 
